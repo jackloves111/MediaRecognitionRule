@@ -31,7 +31,7 @@ common:
     help: '屏蔽中文括号内容'
 
   - type: 1
-    replaced: '【高清影视之家发布 www.HDBTHD.com】'
+    replaced: '【高清影视之家发布.*?】'
     replace: ''
     front: ''
     back: ''
