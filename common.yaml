@@ -1,3 +1,16 @@
+# type: 替换类型
+# 1 屏蔽
+# 2 替换
+# 3 替换+集偏移
+# 4 集偏移
+# replaced: 被替换内容
+# replace: 替换的内容
+# front: 前定位词，定位集数用
+# back: 后定位词，定位集数用
+# offset: 集偏移
+# season: 电视剧第几季，-1 表示所有季
+# help: 规则说明
+
 common:
   - type: 1
     replaced: '[【\[](Fin|END)[】\]]|(?:|\s|\s-\s)(Fin|END)(?=\])|(?<=\d{1,2})(Fin|END)'
@@ -16,3 +29,12 @@ common:
     offset: ''
     season: -1
     help: '屏蔽中文括号内容'
+
+  - type: 1
+    replaced: '【高清影视之家发布 www.HDBTHD.com】'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽bt前缀'
