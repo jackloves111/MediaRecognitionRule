@@ -1,3 +1,19 @@
+字段描述
+格式与通用规则一致，common 改为对应的tmdbid
+tmdbid:
+    type: 替换类型
+    1 屏蔽
+    2 替换
+    3 替换+集偏移
+    4 集偏移
+    replaced: 被替换内容
+    replace: 替换的内容
+    front: 前定位词，定位集数用
+    back: 后定位词，定位集数用
+    offset: 集偏移
+    season: 电视剧第几季，-1 表示所有季
+    help: 规则说明
+
 634492:
   - type: 2
     replaced: 'Madame.+Web'
@@ -7,3 +23,13 @@
     offset: ''
     season: -1
     help: '蜘蛛夫人：超感觉醒 (2024)'
+
+823464:
+  - type: 2
+    replaced: 'Godzilla vs Kong'
+    replace: 'Godzilla x Kong'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '哥斯拉大战金刚2：帝国崛起 (2024)'
