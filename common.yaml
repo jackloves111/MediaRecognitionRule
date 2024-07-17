@@ -38,3 +38,21 @@ common:
     offset: ''
     season: -1
     help: '屏蔽bt前缀'
+
+  - type: 1
+    replaced: '【更多高清电影访问.*?】'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽bt前缀'
+
+  - type: 1
+    replaced: '【更多无水印蓝光原盘请访问.*?】'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽bt前缀'
