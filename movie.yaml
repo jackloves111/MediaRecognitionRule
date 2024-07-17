@@ -1,6 +1,6 @@
 # 字段描述
 # 格式与通用规则一致，common 改为对应的tmdbid
-# tmdbid:
+# 这里写tmdbid:
 #     type: 替换类型
 #     1 屏蔽
 #     2 替换
@@ -22,7 +22,7 @@
     offset: ''
     season: -1
     help: '蜘蛛夫人：超感觉醒 (2024)'
-
+    
 823464:
   - type: 2
     replaced: 'Godzilla vs Kong'
