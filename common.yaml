@@ -56,3 +56,12 @@ common:
     offset: ''
     season: -1
     help: '屏蔽bt前缀'
+
+  - type: 1
+    replaced: '\[[^\]]+\+[^\]]+\]'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽[文字+文字]格式'
