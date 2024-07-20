@@ -67,7 +67,7 @@ common:
     help: '屏蔽[文字+文字]格式'
 
   - type: 1
-    replaced: '梦幻天堂·龙网(www.321n.net)'
+    replaced: '梦幻天堂·龙网'
     replace: ''
     front: ''
     back: ''
