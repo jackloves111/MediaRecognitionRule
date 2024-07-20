@@ -65,3 +65,13 @@ common:
     offset: ''
     season: -1
     help: '屏蔽[文字+文字]格式'
+
+  - type: 1
+    replaced: '梦幻天堂·龙网(www.321n.net)'
+    replace: ''
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '屏蔽bt前缀'
+    
