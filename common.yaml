@@ -74,21 +74,3 @@ common:
     offset: ''
     season: -1
     help: '屏蔽bt前缀'
-    
-  - type: 2
-    replaced: 'Jade.+Dynasty'
-    replace: '诛仙'
-    front: ''
-    back: ''
-    offset: ''
-    season: -1
-    help: '诛仙动漫和电视剧'
-
-  - type: 2
-    replaced: 'Zhu.+Xian'
-    replace: '诛仙'
-    front: ''
-    back: ''
-    offset: ''
-    season: -1
-    help: '诛仙动漫和电视剧'
