@@ -25,3 +25,22 @@
     offset: ''
     season: -1
     help: '狼与香辛料 行商邂逅贤狼 (2024)'
+
+206484:
+  - type: 2
+    replaced: 'Jade.+Dynasty'
+    replace: '诛仙'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '诛仙动漫（2022）'
+
+  - type: 2
+    replaced: 'Zhu.+Xian'
+    replace: '诛仙'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '诛仙动漫（2022）'
