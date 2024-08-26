@@ -7,22 +7,3 @@
     offset: ''
     season: 4
     help: '综艺节目哈哈哈哈哈/五哈第四季 (2024)'
-
-67814:
-  - type: 2
-    replaced: 'Jade.+Dynasty'
-    replace: '诛仙'
-    front: ''
-    back: ''
-    offset: ''
-    season: -1
-    help: '诛仙青云志（2022）'
-
-  - type: 2
-    replaced: 'Zhu.+Xian'
-    replace: '诛仙'
-    front: ''
-    back: ''
-    offset: ''
-    season: -1
-    help: '诛仙青云志（2022）'
