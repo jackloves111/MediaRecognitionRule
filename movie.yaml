@@ -33,3 +33,23 @@
     offset: ''
     season: -1
     help: '哥斯拉大战金刚2：帝国崛起 (2024)'
+
+983311:
+  - type: 2
+    replaced: 'Eye.+for.+an.+Eye.*2022'
+    replace: 'Eye for an Eye: The Blind Swordsman'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '目中无人(2022)'
+
+983311:
+  - type: 2
+    replaced: 'Eye.+for.+an.+Eye.*2024'
+    replace: '目中无人2'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '目中无人2(2024)'
