@@ -46,8 +46,8 @@
 
 983311:
   - type: 2
-    replaced: 'Eye.+for.+an.+Eye'
-    replace: '目中无人'
+    replaced: 'Eye.+for.+an.+Eye*?2'
+    replace: '目中无人2'
     front: ''
     back: ''
     offset: ''
