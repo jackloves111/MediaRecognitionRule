@@ -74,3 +74,12 @@ common:
     offset: ''
     season: -1
     help: '屏蔽bt前缀'
+
+  - type: 2
+    replaced: 'Eye.+for.+an.+Eye'
+    replace: '目中无人'
+    front: ''
+    back: ''
+    offset: ''
+    season: -1
+    help: '目中无人'
