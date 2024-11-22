@@ -10,18 +10,18 @@
 
 253649:
   - type: 2
-    replaced: 'The.+First.+Shot.+2017'
-    replace: '第一声枪响?+.2017'
+    replaced: 'The.First.Shot.*2017'
+    replace: '第一声枪响.*2017'
     front: ''
     back: ''
     offset: ''
     season: 1
-    help: '雪迷宫(2024)'
+    help: '排除雪迷宫(2024)之外的第一声枪响（2017）'
 
 275176:
   - type: 2
-    replaced: 'Xi.Ju.Da.Hui.+2024'
-    replace: '喜剧大会.+2024'
+    replaced: 'Xi.Ju.Da.Hui.*2024'
+    replace: '喜剧大会.*2024'
     front: ''
     back: ''
     offset: ''
