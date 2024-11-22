@@ -17,3 +17,13 @@
     offset: ''
     season: 1
     help: '雪迷宫(2024)'
+
+275176
+  - type: 2
+    replaced: 'Xi.Ju.Da.Hui.+2024'
+    replace: '喜剧大会.+2024'
+    front: ''
+    back: ''
+    offset: ''
+    season: 1
+    help: '喜剧大会(2024)'
