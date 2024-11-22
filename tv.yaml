@@ -10,8 +10,8 @@
 
 253649:
   - type: 2
-    replaced: 'The.First.Shot(.*?)(2017)'
-    replace: '第一声枪响\1\2'
+    replaced: 'The.First.Shot(?=.*2017)'
+    replace: '第一声枪响'
     front: ''
     back: ''
     offset: ''
@@ -20,8 +20,8 @@
 
 275176:
   - type: 2
-    replaced: 'Xi.Ju.Da.Hui(.*?)(2024)'
-    replace: '喜剧大会\1\2'
+    replaced: 'Xi.Ju.Da.Hui(?=.*2024)'
+    replace: '喜剧大会'
     front: ''
     back: ''
     offset: ''
